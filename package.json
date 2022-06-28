@@ -1,6 +1,6 @@
 {
   "name": "easy-animate",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A simple library to make using CSS animations easier. It can be used to define, start and stop animations.",
   "main": "dist/index.min.js",
   "types": "dist/index.d.ts",
