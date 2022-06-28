@@ -9,7 +9,9 @@ module.exports = {
     },
     output: {
         path: path.resolve(__dirname, 'dist'),
-        filename: 'index.min.js'
+        library: 'EasyAnimate',
+        libraryTarget: 'umd',
+        filename: 'index.min.js',
     },
     resolve: {
         extensions: ['.ts', '.js']
