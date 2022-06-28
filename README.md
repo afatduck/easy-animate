@@ -1,4 +1,4 @@
-﻿# Easy Animations
+# Easy Animations
 A simple library to make using CSS animations easier. It can be used to define, start and stop animations.
 
 Browser only. Supporded on all modern browsers except IE.
